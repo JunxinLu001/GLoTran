@@ -1,7 +1,7 @@
 # GLoTran
 
 **Global-Local Dual Perception for MLLMs in High-Resolution Text-Rich Image Translation**
-
+<p align="center"> <img src="assets/overview.pdf" width="800"> </p>
 This repository is currently under preparation. The source code, dataset processing scripts, model configurations, evaluation protocols, and related resources will be released after internal organization, verification, and documentation are completed.
 
 ## Citation
