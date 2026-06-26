@@ -7,6 +7,7 @@ This repository is currently under preparation. The source code, dataset process
 
 If you find this project useful for your research, please consider citing our work:
 
+
 @misc{lu2026globallocaldualperceptionmllms,
 
       title={Global-Local Dual Perception for MLLMs in High-Resolution Text-Rich Image Translation}, 
