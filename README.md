@@ -9,7 +9,6 @@ If you find this project useful for your research, please consider citing our wo
 
 
 @misc{lu2026globallocaldualperceptionmllms,
-
       title={Global-Local Dual Perception for MLLMs in High-Resolution Text-Rich Image Translation}, 
       
       author={Junxin Lu and Tengfei Song and Zhanglin Wu and Pengfei Li and Xiaowei Liang and Hui Yang and Kun Chen and Ning Xie and Yunfei Lu and Jing Zhao and Shiliang Sun and Daimeng Wei},
@@ -23,7 +22,6 @@ If you find this project useful for your research, please consider citing our wo
       primaryClass={cs.CV},
       
       url={https://arxiv.org/abs/2602.21956}, 
-      
 }
 The final citation information will be updated after publication.
 
